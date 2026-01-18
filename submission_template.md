@@ -2,7 +2,7 @@
 
 ## Candidate
 - Name: Bisrat Berhanu Negus
-- Approximate time spent:
+- Approximate time spent: 70 minutes
 
 ---
 
